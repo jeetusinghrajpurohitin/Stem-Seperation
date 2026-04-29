@@ -1,0 +1,51 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+*.egg
+.eggs/
+dist/
+build/
+.env
+.env.*
+*.env
+
+# Runtime folders
+backend/separated/
+backend/spectrograms/
+backend/temp_uploads/
+
+# Training data
+backend/data/audio/
+backend/data/gtzan_data/
+backend/data/ESC-50-master/
+
+# Local test files
+backend/Test_audios/
+*.log
+*.wav
+*.mp3
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.*
+frontend/.env.local
+frontend/.env.production
+
+# System
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
+*.log
+upload_hf.py
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
