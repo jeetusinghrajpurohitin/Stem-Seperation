@@ -7,7 +7,7 @@ A full-stack machine learning application that separates audio files into indivi
 ---
 
 🔗 **Live Demo:** https://stem-seperation.vercel.app  
-🤗 **Backend API:** https://zen-4011-audio-separation-model.hf.space
+🤗 **Backend API:** https://jeetu654-stem-seperation.hf.space
 
 ---
 
@@ -166,7 +166,7 @@ Stem-Seperation/
 
 ## 📡 API Reference
 
-Base URL: `https://zen-4011-audio-separation-model.hf.space`
+Base URL: `https://jeetu654-stem-seperation.hf.space`
 
 ### GET /api/health
 Returns the service status and model load state.
